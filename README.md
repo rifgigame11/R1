@@ -19,11 +19,11 @@ The chain is selected automatically from the browser's User-Agent.
 | 12.02 | lapse | Yes |
 | 12.50 | poops | Yes |
 | 12.52 | poops | Yes |
-| 13.00 | poops | Yes |
+| 13.00 | poops | Yes 
 
 ## Usage
 
-1. Open the browser on your PS4 and go to https://rawgame4.github.io/
+1. Open the browser on your PS4 and go to https://rifgigame11.github.io/R1/
 2. Wait for `CACHED (first run)`. This stores everything in AppCache so later
    runs work offline.
 3. Press X to start.
